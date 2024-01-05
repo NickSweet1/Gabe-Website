@@ -2,7 +2,9 @@ import React from 'react'
 
 const IndustriesPage = () => {
   return (
-    <div>IndustriesPage</div>
+    <div>
+      Industries Page
+    </div>
   )
 }
 
